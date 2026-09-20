@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "fftconv-bayes-tracker"
+type: software
+authors:
+  - family-names: Sun
+    given-names: Peihan
+repository-code: "https://github.com/VanillaChocoCake/fftconv-bayes-tracker"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Robust betatron-tune measurement from Schottky spectra: complementary classical and deep-learning paradigms"
+  authors:
+    - family-names: Sun
+      given-names: Peihan
+    - family-names: Zhang
+      given-names: Manzhou
+    - family-names: Yuan
+      given-names: Renxian
+    - family-names: Li
+      given-names: Deming
+    - family-names: Dong
+      given-names: Jian
+  journal: "Journal of Instrumentation"
+  volume: 21
+  issue: "08"
+  start: "P08005"
+  year: 2026
+  doi: "10.1088/1748-0221/21/08/P08005"
